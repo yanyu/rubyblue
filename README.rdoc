@@ -23,6 +23,14 @@ To install:
 2. Copy it to: ~/vim/colors/
 3. Add `colorscheme rubyblue` to your ~/.vimrc file
 
+== Pacu
+
+To install:
+
+1. Download RubyBlue.js
+2. Copy it to: /Applications/Pacu.app/Contents/charcoal/themes/
+3. Restart Pacu and select the RubyBlue theme from the preferences dialog.
+
 == Licence
 
   Copyright (c) 2009, John W. Long.

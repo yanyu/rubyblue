@@ -3,6 +3,7 @@
 // Original Textmate theme: Ruby Blue by John W. Long.
 // The conversion is still incomplete. Any suggestions or any problems,
 // please contact me at yanyu [at] cyblogic [dot] com.
+// More at http://github.com/yanyu/rubyblue
 
 PacuEditorFG = '#FFFFFF';
 PacuEditorBG = '#121E31';
